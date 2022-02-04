@@ -1,3 +1,8 @@
 # Active Directory Lab Setup
 
-Here's some fun stuff to initialize an Active Directory lab.  Enjoy!
+This is a great way to create a bunch of objects in your Active Directory domain lab, without all the hassle.  Here's what will get created:
+
+
+- Organizational Units
+- User Accounts
+- Groups and group membership assignments
