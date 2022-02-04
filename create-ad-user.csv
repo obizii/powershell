@@ -1,2 +1,0 @@
-﻿samaccountname,password,firstname,lastname,initials,ou,email,streetaddress,city,zipcode,state,country,telephone,jobtitle,company,department
-jsmith,$0M3securePWD,John,Smith,JS,"OU=TEST,OU=Users,DC=contoso,DC=com",jsmith@contoso.com,350 Fifth Ave.,New York City,10118,NY,United States,(212) 736-3100,CEO,Contoso,C-Suite
