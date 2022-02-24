@@ -10,7 +10,7 @@ This script will assign a new Office 365 license or change the service plans of 
 Based on the service plans provided by the user, the script will assign a new Office 365 license or change the service plans of the desired license. If the user already has service plans activated for that SKU, the script will add them to the flow in order to mantain that service plans activated.
 Example: If user has Exchange role activated and the service plans provided are SharePoint Online, in the end, the user will have both the service plans activated.
 
-This script uses an additional CSV file expected to be in the same location of the script file with the following nomenclature: LicenseUsers.csv. This CSV is expected to have a column named "UserPrincipalName" with the UserPrincipalName of the users that are aimed to be targeted.
+This script uses an additional CSV file expected to be in the same location of the script file with the following nomenclature: user-list.csv. This CSV is expected to have a column named "UserPrincipalName" with the UserPrincipalName of the users that are aimed to be targeted.
 
 Change the $SKU and $enabledPlans variables to the desired values.
 To view the available subscription SKUs: Get-AzureADSubscribedSku
@@ -44,7 +44,7 @@ if ($PSVersionTable.PSVersion.Major -lt 3) {
 
 # Import CSV with users information
 try{
-    $users = Import-Csv "$PSScriptRoot\LicenseUsers.csv"
+    $users = Import-Csv "$PSScriptRoot\user-list.csv"
 }catch{
     Write-Host "Unable to find the users CSV file. Aborting script!" -ForegroundColor "Red"
     Disconnect-AzureAD
