@@ -6,9 +6,9 @@ The testing for the insecure cipher suites is conducted to validate methods for 
 
 The registry key (REG_MULTI_SZ) contains multiple values.  
 
-Registry Path: HKLM:\SYSTEM\CurrentControlSet\Control\Cryptography\Configuration\Local\SSL\000100002 
-Name: Functions 
-Type: REG_MULTI_SZ 
+ - Registry Path: HKLM:\SYSTEM\CurrentControlSet\Control\Cryptography\Configuration\Local\SSL\000100002 
+ - Name: Functions 
+ - Type: REG_MULTI_SZ 
 
 ## Script Build 
 
