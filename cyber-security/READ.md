@@ -1,4 +1,4 @@
-# Testing Disabling Insecure Ciphers 
+# disable-insecureciphers.ps1
 
 The testing for the insecure cipher suites is conducted to validate methods for corrective action and remediation. All fully patched versions of Windows Server (2012 through 2022)l contain active insecure ciphers (3DES & RC4). The registry entries for all versions must me modified to disable the use of the 64-bit ciphers. 
 
