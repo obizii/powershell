@@ -1,6 +1,6 @@
 # Overview
 
-img align="left" src=bin/lab-icon.png alt="lab logo"> The Labs content is designed to assist with the creation of lab environments to test and train without the need for hours of manual tasks involved in setting up a lab. There are a few different lab environments provided for to create helpful labs.
+<img align="left" src=bin/lab-icon.png alt="lab logo"> The Labs content is designed to assist with the creation of lab environments to test and train without the need for hours of manual tasks involved in setting up a lab. There are a few different lab environments provided for to create helpful labs.
 
 ## Windows Active Directory Lab
 
