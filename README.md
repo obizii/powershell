@@ -21,14 +21,14 @@ I've tried to break the folder structure down into some core components. Each su
 - Server Administration (server-admin)
 - Workstation Administration (workstation-admin)
 
-#### Active Directory (active-directory)
+### Active Directory (active-directory)
 
 ### Cybersecurity (cybersecurity)
 
-#### Labs (labs)
+### Labs (labs)
 
 ### Microsoft 365 (microsoft-365)
 
 ### Server Administration (server-admin)
 
-#### Workstation Administration (workstation-admin)
+### Workstation Administration (workstation-admin)
