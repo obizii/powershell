@@ -6,6 +6,6 @@ This folder contains PowerShell scripts and on-liners for most Exchange Online m
 
 From an elevated PowerShell (Run as Administrator), run the following commandlets:
 
-`
+`powershell
 Install-Module -Name ExchangeOnlineManagement
 `
