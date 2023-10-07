@@ -25,7 +25,7 @@ I've tried to break the folder structure down into some core components. Each su
 
 ### Cybersecurity (cybersecurity)
 
-### Labs (labs)
+### <img align="left" src=labs/bin/lab-icon.png alt="lab logo">Labs (labs)
 
 ### Microsoft 365 (microsoft-365)
 
