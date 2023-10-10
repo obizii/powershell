@@ -14,21 +14,21 @@ For most, if not all of the PowerShell scripts presented here, please make sure 
 
 I've tried to break the folder structure down into some core components. Each subfolder listed will have scripts that I've used during my time as a Windows administrator. The core components are broken down into six sections:
 
-- Active Directory (active-directory)
-- Cybersecurity (cybersecurity)
-- Labs (labs)
-- Microsoft 365 (microsoft-365)
-- Server Administration (server-admin)
-- Workstation Administration (workstation-admin)
+- :ledger:Active Directory (active-directory)
+- :shield: Cybersecurity (cybersecurity)
+- :lab_coat: Labs (labs)
+- :cloud: Microsoft 365 (microsoft-365)
+- :floppy_disk: Server Administration (server-admin)
+- :computer: Workstation Administration (workstation-admin)
 
-### Active Directory (active-directory)
+### :ledger:Active Directory (active-directory)
 
-### Cybersecurity (cybersecurity)
+### :shield: Cybersecurity (cybersecurity)
 
 ### :lab_coat: Labs (labs)
 
-### Microsoft 365 (microsoft-365)
+### :cloud: Microsoft 365 (microsoft-365)
 
-### Server Administration (server-admin)
+### :floppy_disk: Server Administration (server-admin)
 
-### Workstation Administration (workstation-admin)
+### :computer: Workstation Administration (workstation-admin)
